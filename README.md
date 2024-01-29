@@ -12,4 +12,5 @@ Python | ReactJS | HTML | SQL | C |
 
 💬 Let's Connect:
 linkedin.com/in/mitulgarg123/
+
 Reach me at mitulgarg3@gmail.com
