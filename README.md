@@ -4,8 +4,7 @@ Machine Learning and Gen AI Enthusiast
 Passionate about exploring the realms of AI and Data science. I've delved into the world of machine learning, from algorithms to applications, and I've even built projects around recommender systems, websites using React.Js and fullstack apps using Frappe integrated with VueJS.
 
 🔭 Currently Working On:
-Gen AI Projects |
-ADHD Tracking Website| Frappe-VueJs Full Stack
+| Gen AI Projects | Frappe-VueJs Full Stack | ADHD Tracking Website | 
 
 🌱 Tech:
 Python | ReactJS | Frappe | HTML | SQL | C | 
