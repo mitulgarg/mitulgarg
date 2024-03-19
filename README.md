@@ -8,7 +8,7 @@ Gen AI Projects |
 ADHD Tracking Website 
 
 🌱 Tech-Stacks:
-Python | ReactJS | HTML | SQL | C | 
+Python | ReactJS | Frappe | HTML | SQL | C | 
 
 💬 Let's Connect:
 linkedin.com/in/mitulgarg123/
