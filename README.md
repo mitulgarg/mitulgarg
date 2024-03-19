@@ -1,7 +1,7 @@
 👋 Hello, I'm Mitul Garg!
-Machine Learning and Gen AI Enthusiast 
+Machine Learning, Gen AI and Cloud Enthusiast 
 
-Passionate about exploring the realms of AI and Data science. I've delved into the world of machine learning, from algorithms to applications, and I've even built projects around recommender systems, websites using React.Js and fullstack apps using Frappe integrated with VueJS.
+Passionate about exploring the realms of Machine Learning, GenAI and Cloud. I've delved into the world of ML, from algorithms to applications and built projects using recommender systems, computer vision, CRNN models based on Python along with websites using React.Js and fullstack apps using Frappe integrated with VueJS.
 
 🔭 Currently Working On:
 | Gen AI Projects | Frappe-VueJs Full Stack | ADHD Tracking Website | 
