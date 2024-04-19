@@ -1,5 +1,5 @@
 👋 Hello, I'm Mitul Garg!
-Machine Learning, Gen AI and Cloud Enthusiast 
+Machine Learning, Computer Vision Gen AI and Cloud Enthusiast 
 
 Passionate about exploring the realms of Machine Learning, GenAI and Cloud. I've delved into the world of ML, from algorithms to applications and built projects using recommender systems, computer vision, CRNN models based on Python along with websites using React.Js and fullstack apps using Frappe integrated with VueJS.
 
