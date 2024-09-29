@@ -10,6 +10,6 @@ Passionate about exploring the realms of Machine Learning, GenAI and Cloud. I've
 Python | ReactJS | HTML | SQL | Frappe | OCI | Gen AI | Java | 
 
 💬 Let's Connect:
-linkedin.com/in/mitulgarg123/
+https://www.linkedin.com/in/mitulgarg123/
 
 Reach me at mitulgarg3@gmail.com
