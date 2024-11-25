@@ -10,7 +10,7 @@ I've delved into the world of ML, from algorithms to applications and built proj
 
 💻 Tech:
 
-| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud (IAM/EC2Sagemaker/AWS-CLI/Bedrock/etc) | ReactJS | HTML | MySQL | Frappe | Docker | Jenkins | Kubernetes | Java | C | 
+| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud | ReactJS | MySQL | Frappe | Docker | Jenkins | Kubernetes | Java | C | 
 
 🌐 LinkedIn Profile:
 https://www.linkedin.com/in/mitulgarg123/
