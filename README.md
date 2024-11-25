@@ -1,17 +1,18 @@
 👋 Hello, I'm Mitul Garg!
-Machine Learning , Cloud SaaS , Generative AI , DevOps , Computer Vision , Web Applications Enthusiast 
+Machine Learning , Cloud SaaS , Generative AI , DevOps , Computer Vision and Web Applications Enthusiast 
 
-Passionate about exploring the realms of Machine Learning, GenAI and Cloud. I've delved into the world of ML, from algorithms to applications and built projects with NLP using LLMs , recommender systems, computer vision, CRNN models based on Python along with websites using React.Js and fullstack apps using Frappe integrated with VueJS. I've fine tuned various LLMs for my personal projects and have also worked with Local quantized GGUF models. 
+Passionate about exploring the realms of GenAI, Machine Learning, Cloud and overall Product - for the end user. I've delved into the world of ML, from algorithms to applications and built projects with NLP using fine-tined LLMs , recommender systems, computer vision, CRNN models based on Python along with websites using React.Js and fullstack apps using Frappe integrated with VueJS. I've fine tuned various LLMs for my personal projects and have also worked with Local quantized GGUF models. I've learned Cloud/DevOps on AWS with EC2 instances, Sagemaker, Bedrock, IAM and various other tools. 
 
-🔭 Currently Working On:
+🔭 Stuff I'm Currently Working On:
 
-| Gen AI Projects | Oracle Cloud Applications | Workflow Automation Using GenAI | Frappe-VueJs Full Stack |
+| Gen AI Projects | CI/CD - Devops | Oracle Cloud Applications | Workflow Automation Using GenAI |
 
-🌱 Tech:
+💻 Tech:
 
-| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud (IAM/Bedrock/Sagemaker/etc) | ReactJS | HTML | MySQL | Frappe | Docker | Jenkins | Java |  
+| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud (IAM/EC2Sagemaker/AWS-CLI/Bedrock/etc) | ReactJS | HTML | MySQL | Frappe | Docker | Jenkins | Kubernetes | Java | C | 
 
-💬 LinkedIn Profile:
+🌐 LinkedIn Profile:
 https://www.linkedin.com/in/mitulgarg123/
 
-Reach me at mitulgarg3@gmail.com
+📧 Mail :
+mitulgarg3@gmail.com
