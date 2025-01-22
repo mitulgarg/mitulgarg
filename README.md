@@ -6,11 +6,11 @@ I've delved into the world of ML, from algorithms to applications and built proj
 
 🔭 Stuff I'm Currently Working On:
 
-| Gen AI Projects | CI/CD - Devops | Oracle Cloud Applications | Workflow Automation Using GenAI |
+| Gen AI Projects | Oracle Cloud Applications | Workflow Automation Using GenAI | CI/CD - Devops | 
 
 💻 Tech:
 
-| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud | ReactJS | MySQL | Frappe | Docker | Jenkins | Kubernetes | Java | C | 
+| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud | ReactJS | MySQL | Linux | Frappe | Docker | Jenkins | Kubernetes | Java | C | 
 
 🌐 LinkedIn Profile:
 https://www.linkedin.com/in/mitulgarg123/
