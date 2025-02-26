@@ -6,7 +6,7 @@ I've delved into the world of ML, from algorithms to applications and built proj
 
 🔭 Stuff I'm Currently Working On:
 
-| Gen AI Projects | Oracle Cloud Applications | Workflow Automation Using GenAI | CI/CD - Devops | 
+| Gen AI Projects | Agentic AI Workflow Automation | Oracle Cloud Applications | CI/CD - Devops | RAG | OCR |
 
 💻 Tech:
 
