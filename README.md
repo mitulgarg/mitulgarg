@@ -2,8 +2,14 @@ Hello, I'm Mitul Garg!
 
 Machine Learning , Cloud , Generative AI/Agentic AI , DevOps , and Full Stack Web Applications Enthusiast 
 
-Passionate about GenAI, Machine Learning, Cloud and 'Product' - for the end user. 
-I've delved into the world of Generative AI, from ML to algorithms and applications and built projects with NLP using fine-tined LLMs , recommender systems, computer vision, CRNN models for Image Classification along with websites using React.Js and fullstack apps using FastAPI and also worked on Frappe integrated with VueJS. I've built Agentic AI solutions with/without frameworks, built MCP Servers and MCP Clients as well. I've fine tuned LLMs for my personal projects and have also worked with Local quantized GGUF models. I've learned Cloud/DevOps on AWS with EC2, Sagemaker, Bedrock, IAM and various other tools. 
+Passionate about Generative AI, Agentic AI, Cloud, and building products for the end user.
+I’ve built Agentic AI solutions with and without frameworks, developed MCP Servers and Clients, fine-tuned LLMs for personal projects, and worked with local quantized GGUF models.
+
+I’ve built full-stack applications with FastAPI, React.js, Vue.js, and Frappe, integrating AI capabilities into end-to-end product experiences.
+
+I also have experience in Cloud/DevOps on AWS/OCI (EC2, SageMaker, Bedrock, IAM, and more)!
+
+Alongside Agentic AI, I’ve explored the broader Generative AI and ML ecosystem—from algorithms to real-world applications—building projects with NLP, recommender systems, computer vision models, and CRNNs for image classification.
 
 🔭 Stuff I'm Currently Working On:
 
