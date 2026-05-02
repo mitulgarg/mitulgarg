@@ -1,26 +1,9 @@
 Hello, I'm Mitul Garg!
 
-Machine Learning , Cloud , Generative AI/Agentic AI , DevOps , and Full Stack Web Applications Enthusiast 
+AI Engineer building agentic systems, production AI pipelines, and developer tools.
 
-Passionate about Generative AI, Agentic AI, Cloud, and building products for the end user.
-I’ve built Agentic AI solutions with and without frameworks, developed MCP Servers and Clients, fine-tuned LLMs for personal projects, and worked with local quantized GGUF models.
+I build and ship AI systems end-to-end, from agentic orchestration with LangGraph to production document processing and translation pipelines using vision models. I've designed Agent Registries supporting A2A, MCP, and A2T protocols for contract automation platforms, and I maintain env-doctor, an open-source CLI tool for environment validation with MCP server integration (6,000+ PyPI downloads, 130+ GitHub stars).
 
-I’ve built full-stack applications with FastAPI, React.js, Vue.js, and Frappe, integrating AI capabilities into end-to-end product experiences.
+In production, I've built multilingual document translation systems, async processing pipelines with queue-based architectures, and voice/telephony AI systems using LiveKit and Twilio SIP. I work across OCI and AWS cloud infrastructure.
 
-I also have experience in Cloud/DevOps on AWS/OCI (EC2, SageMaker, Bedrock, IAM, and more)!
-
-Alongside Agentic AI, I’ve explored the broader Generative AI and ML ecosystem—from algorithms to real-world applications—building projects with NLP, recommender systems, computer vision models, and CRNNs for image classification.
-
-🔭 Stuff I'm Currently Working On:
-
-| Gen AI Projects | Agentic AI Solutions | MCP | Oracle Cloud Applications | CI/CD - Devops | RAG | OCR |
-
-💻 Tech:
-
-| Python | Gen AI | Oracle Cloud Infrastructure | AWS Cloud | ReactJS | MySQL | Linux | Frappe | Docker | Jenkins | Kubernetes | Java | C | 
-
-🌐 LinkedIn Profile:
-https://www.linkedin.com/in/mitulgarg123/
-
-📧 Mail :
-mitulgarg3@gmail.com
+I've also explored speculative decoding research, fine-tuned LLMs, worked with local quantized models (GGUF), and built full-stack applications with FastAPI and Frappe integrating AI into product experiences.
